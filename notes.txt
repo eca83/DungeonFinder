@@ -1,0 +1,9 @@
+Dungeon Finders
+
+- fight professors and ta's to get enough credits to graduate from sfu
+- implement for burnaby (surrey and downtown?)
+- choose your team (faculty)
+- number of credits depends on faculty
+- different challenges for each faculty (do more research on this)
+
+https://www.netguru.com/blog/augmented-reality-mobile-android
