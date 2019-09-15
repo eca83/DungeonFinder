@@ -1,11 +1,17 @@
 Dungeon Finders
 
+Main Idea:
 - fight professors and ta's to get enough credits to graduate from sfu
 - implement for burnaby (surrey and downtown --> possibility to expand later)
 - choose your team (faculty)
 - number of credits depends on faculty
 - different challenges for each faculty (do more research on this)
 
+Intro:
+- quests --> complete set of tasks before moving onto next set
+- potentially add side quests (go to convo mall to get)
+- main quest will direct you to certain location + do something to get prof to show up
+- profs will have mini games that you have to beat to get the "credits"
 
 
 Faculty of Applied Sciences.
