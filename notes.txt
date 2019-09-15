@@ -6,5 +6,19 @@ Dungeon Finders
 - number of credits depends on faculty
 - different challenges for each faculty (do more research on this)
 
+
+
+Faculty of Applied Sciences.
+Faculty of Arts and Social Sciences.
+Faculty of Communication, Art and Technology.
+Faculty of Education.
+Faculty of Environment.
+Faculty of Health Sciences.
+Faculty of Sciences.
+
+We can use faculty colours for convocation as team colours.
+https://www.sfu.ca/convocation/about/university-regalia/bachelor.html
+
+
 https://www.netguru.com/blog/augmented-reality-mobile-android
 https://developers.google.com/ar/develop/java/quickstart
