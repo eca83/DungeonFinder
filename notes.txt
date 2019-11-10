@@ -24,7 +24,7 @@ Faculty of Sciences.
 
 We can use faculty colours for convocation as team colours.
 https://www.sfu.ca/convocation/about/university-regalia/bachelor.html
-
+List of colour scheme: https://www.codexpedia.com/android/list-of-color-names-and-color-code-for-android/
 
 https://www.netguru.com/blog/augmented-reality-mobile-android
 https://developers.google.com/ar/develop/java/quickstart
