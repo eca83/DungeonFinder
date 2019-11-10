@@ -15,4 +15,20 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_questMenu"
+        tools:layout_editor_absoluteX="145dp"
+        tools:layout_editor_absoluteY="275dp"
+        android:src="@drawable/quest_menu_image"/>
+
+<!--    <Button-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/button_mainMenu"-->
+<!--        android:text="button_text"-->
+<!--        tools:layout_editor_absoluteX="145dp"-->
+<!--        tools:layout_editor_absoluteY="275dp"/>-->
+
 </androidx.constraintlayout.widget.ConstraintLayout>
