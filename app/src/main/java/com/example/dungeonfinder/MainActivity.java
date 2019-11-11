@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 //                startActivity(new Intent(MainActivity.this, YourNewActivity.class));
 //            }
 //        });
-
+// TEst
         button_questMenu.setOnClickListener(new View.OnClickListener() {
             public void onClick(View activity_main) {
                 startActivity(new Intent(MainActivity.this, QuestMenuActivity.class));
